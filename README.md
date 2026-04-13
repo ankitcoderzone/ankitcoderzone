@@ -4,8 +4,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ankitcoderzone&show_icons=true&bg_color=0d1117&icon_color=ffffff&text_color=fff&border_color=0d1117">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitcoderzone&theme=dark&hide_border=true&background=0d1117">
 
-  <summary>:zap: Languages I Used to Code</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitcoderzone&layout=compact&bg_color=0d1117&text_color=fff">
 
 <!--
 **ankitcoderzone/ankitcoderzone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
